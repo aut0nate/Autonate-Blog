@@ -1,31 +1,31 @@
 # boolean type, the global switch for TOC in posts.
 toc = true
 # the avatar on sidebar, should be a relative path to /assets.
-avatar = "img/commons/avatar.jpg"
-author = "yifan"
+avatar = "img/commons/nd.jpg"
+author = "Nathan"
 
 [assets]
   # Self-hosted static assets, default to false. If true, the assets will be hosted on your own server.
   self_host = false
 
 [social]
-  name = "Yifan"
-  url = "https://github.com/geekifan"
+  name = "aut0nate"
+  url = "https://github.com/aut0nate"
 
 [[social.links]]
   type = "github"
-  id = "yourusername"
+  id = "aut0nate"
   icon = "fab fa-github"
 
-[[social.links]]
-  type = "twitter"
-  id = "yourhandle"
-  icon = "fab fa-twitter"
+#[[social.links]]
+#  type = "twitter"
+#  id = "yourhandle"
+#  icon = "fab fa-twitter"
 
-[[social.links]]
-  type = "email"
-  id = "your.email@example.com"
-  icon = "fas fa-envelope"
+#[[social.links]]
+#  type = "email"
+#  id = "your.email@example.com"
+#  icon = "fas fa-envelope"
 
 [[social.links]]
   type = "rss"

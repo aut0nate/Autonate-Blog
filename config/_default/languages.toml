@@ -1,15 +1,7 @@
 [en]
   languageName = "English"
   languageCode = "en"
-  weight = 2
-  title = "Chirpy"
-  [en.params]
-    tagline = "A text-focused blog theme"
-
-[zh-CN]
-  languageName = "中文"
-  languageCode = "zh-CN"
   weight = 1
-  title = "Chirpy"
-  [zh-CN.params]
-    tagline = "一个专注于文本的博客主题"
+  title = "autonate"
+  [en.params]
+    tagline = "👋🏻 Hi, I’m Nathan, a technical professional from the UK with an interest in AI, Automation, System Administration, Cloud Computing, and DevOps"

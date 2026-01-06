@@ -1,40 +1,46 @@
-# Hugo Theme Chirpy Starter Template
+# Autonate Blog
 
-This is a quick start template for [Hugo Theme Chirpy](https://github.com/geekifan/hugo-theme-chirpy). It uses [Hugo modules](https://gohugo.io/hugo-modules/) feature to load the theme.
+[![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge\&logo=github\&logoColor=white)](https://autonate.dev)
+[![Static Site](https://img.shields.io/badge/static_site-Hugo-ff4088?style=for-the-badge\&logo=hugo\&logoColor=white)](https://gohugo.io/)
 
-It comes with a basic theme structure and configuration. GitHub action has been set up to deploy the theme to a public GitHub page automatically. Also, there's a cron job to update the theme automatically everyday.
+Welcome to **blog.autonate.dev** — my personal blog and technical knowledge base, hosted on GitHub Pages.
+It serves as a living repository of notes, guides, and practical write-ups based on hands-on learning and real-world experience.
 
-## Get started
+## Purpose
 
-1. Click *Use this template*, and create your repository as `<username>.github.io` on GitHub.
-![Step 1](https://user-images.githubusercontent.com/5889006/156916624-20b2a784-f3a9-4718-aa5f-ce2a436b241f.png)
+This blog exists to:
 
-2. Once the repository is created, create a GitHub codespace associated with it.
-![Create codespace](https://user-images.githubusercontent.com/5889006/156916672-43b7b6e9-4ffb-4704-b4ba-d5ca40ffcae7.png)
+* Document what I’m learning, building, and experimenting with.
+* Share practical, no-nonsense technical guides.
+* Act as a long-term reference for systems, tools, and workflows.
+* Showcase projects and ideas in a clear, structured way.
 
-3. And voila! You're ready to go. The codespace has been configured with the latest version of Hugo extended, just run `hugo server` in the terminal and see your new site in action.
+The focus is on *learning by doing*, with an emphasis on clarity, reproducibility, and real use cases rather than theory alone.
 
-4. Check `config` folder for the configuration files. You can edit them to suit your needs. Make sure to update the `baseURL` property in `hugo.toml` to your site's URL.
+## Content Themes
 
-5. Open Settings -> Pages. Change the build branch from `main` to `gh-pages`.
-![Build](https://github.com/namanh11611/hugo-theme-stack-starter/assets/16586200/12c763cd-bead-4923-b610-8788f388fcb5)
+The blog covers a broad but related set of technical areas, including:
 
-6. Once you're done editing the site, just commit it and push it. GitHub action will deploy the site automatically to GitHub page asociated with the repository.
-![GitHub action](https://user-images.githubusercontent.com/5889006/156916881-90b8bb9b-1925-4e60-9d7a-8026cda729bf.png)
+* **AI**: Exploring LLM's, AI tools, workflows, prompt engineering, and how AI integrates into everyday life.
 
----
+* **Cloud Computing & DevOps**: Exploring Azure, Docker, Kubernetes Containers, CI/CD, automation and DevOps best practices.
 
-In case you don't want to use GitHub codespace, you can also run this template in your local machine. **You need to install Git, Go and Hugo extended locally.**
+* **Linux System Administration**: Exploring the command line, tools, system configuration, performance, and best practices across various distros.
 
-## Update theme manually
+* **Scripting & Automation**: Working with Bash, PowerShell, Power Automate, n8n and Apple Shortcuts for improving efficiency.
 
-Run:
+* **Operating Systems**: Working productively across Windows, macOS, and Linux environments.
 
-```bash
-hugo mod get -u github.com/geekifan/hugo-theme-chirpy
-hugo mod tidy
-```
+* **Productivity**: Exploring Tools, techniques, and systems that support focus, organisation, and efficiency.
 
-## Credits
+## Site Architecture
 
-This README is modified from [hugo-theme-stack-starter](https://github.com/CaiJimmy/hugo-theme-stack-starter).
+The site is built as a fast, lightweight static blog with a focus on readability and maintainability.
+
+* **Static Site Generator**: **[Hugo](https://gohugo.io/)**
+* **Theme**: **[Chirpy (Hugo)](https://github.com/geekifan/hugo-theme-chirpy)**
+  A Hugo port of the popular [Jekyll Chirpy theme](https://github.com/cotes2020/jekyll-theme-chirpy), chosen for its clean layout and documentation-friendly design.
+* **Hosting**: **GitHub Pages**
+
+Content is written in Markdown and version-controlled, making it easy to evolve the site alongside ongoing learning.
+

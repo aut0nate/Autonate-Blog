@@ -4,7 +4,7 @@ date: 2025-12-20
 tags: [craft, productivity]
 ---
 
-As a technical professional and somebody who is constantly learning new skills, I’ve always taken time to document what I learn. Not because I’m especially disciplined, but because I’ve been burned too many times by assuming I’d “remember it later”.
+As a technical professional and somebody who is constantly learning new skills, I’ve always taken time to document what I learn. I learned early on that relying on memory simply doesn’t scale, and documentation isn’t an afterthought for me, it’s a deliberate part of my workflow.
 
 There are two main reasons I document things:
 

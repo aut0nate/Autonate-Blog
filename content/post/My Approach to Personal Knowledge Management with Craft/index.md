@@ -1,8 +1,8 @@
-—
+---
 title: “My Approach to Personal Knowledge Management with Craft”
 date: 2025-12-20
 tags: [craft, productivity]
-—
+---
 
 As a technical professional and somebody who is constantly learning new skills, I’ve always taken time to document what I learn. Not because I’m especially disciplined, but because I’ve been burned too many times by assuming I’d “remember it later”.
 

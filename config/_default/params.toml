@@ -13,9 +13,19 @@ author = "Nathan"
   url = "https://github.com/aut0nate"
 
 [[social.links]]
+  type = "website"
+  id = "https://nathandarker.it"
+  icon = "fa-solid fa-globe"
+
+[[social.links]]
   type = "github"
   id = "aut0nate"
   icon = "fab fa-github"
+
+[[social.links]]
+  type = "linkedin"
+  id = "https://www.linkedin.com/in/nathandarker/"
+  id = "fa-brands fa-linkedin"
 
 #[[social.links]]
 #  type = "twitter"

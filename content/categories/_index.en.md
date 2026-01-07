@@ -3,6 +3,6 @@ title: "Categories"
 menu:
   main:
     name: Categories
-    weight: 0
+    weight: 2
     pre: fa-stream
 ---

@@ -13,7 +13,7 @@ author = "Nathan"
   url = "https://github.com/aut0nate"
 
 [[social.links]]
-  type = "website"
+  type = "custom"
   id = "https://nathandarker.it"
   icon = "fa-solid fa-globe"
 
@@ -23,7 +23,7 @@ author = "Nathan"
   icon = "fab fa-github"
 
 [[social.links]]
-  type = "linkedin"
+  type = "custom"
   id = "https://www.linkedin.com/in/nathandarker/"
   icon = "fa-brands fa-linkedin"
 

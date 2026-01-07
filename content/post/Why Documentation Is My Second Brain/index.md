@@ -1,7 +1,7 @@
 ---
 title: "Why Documentation Is My Second Brain"
 date: 2023-03-17
-tags: [productivity]
+tags: [craft, productivity]
 ---
 
 In the fast-paced world of technology, keeping up with new tools, concepts, and workflows can feel overwhelming. That’s why I rely heavily on documentation—it’s not just a task; it’s a mindset. Documentation serves as my **second brain**, a system I can rely on to store, organise, and retrieve the knowledge I’ve accumulated over time. It helps me stay sharp, grow professionally, and contribute to others’ understanding. Here’s why it’s so important to me and how I approach it.

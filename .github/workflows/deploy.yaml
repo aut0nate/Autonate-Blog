@@ -37,7 +37,8 @@ jobs:
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
-          go-version: "^1.24.2"
+          # Use a released Go version (1.24.x is not available yet)
+          go-version: "^1.22"
           
       - name: Check Go version
         run: go version

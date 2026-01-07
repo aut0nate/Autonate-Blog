@@ -1,5 +1,5 @@
 ---
-title: “My Approach to Personal Knowledge Management with Craft”
+title: "My Approach to Personal Knowledge Management with Craft"
 date: 2025-12-20
 tags: [craft, productivity]
 ---

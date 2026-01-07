@@ -35,7 +35,7 @@ Documentation became the one habit I’ve been consistent with over the years, a
 
 I’ve tried a lot of documentation tools over the years. Plain Markdown files, wikis, note apps, and various “all-in-one” productivity tools. Most of them were fine, but none really stuck.
 
-Around three years ago, I settled on Craft, and it’s been my system of choice ever since. It didn’t just replace my notes. It became the place where my knowledge actually lives.
+Around three years ago, I settled on [Craft](https://www.craft.do/), and it’s been my system of choice ever since. It didn’t just replace my notes. It became the place where my knowledge actually lives.
 
 Craft strikes a balance that I hadn’t found elsewhere. It’s structured without being rigid, powerful without feeling heavy, and flexible enough to grow with how I think and work.
 

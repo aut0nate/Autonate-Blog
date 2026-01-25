@@ -4,7 +4,7 @@ date: 2023-04-14
 tags: [ai, llm, chatgpt]
 ---
 
-It’s only been a few weeks since OpenAI released GPT-4, and I’ve already been putting it to work. As a ChatGPT Plus subscriber, I’ve gained access to this new model, albeit with frustratingly low rate limits that I hope will improve in the coming weeks.
+It’s only been a few weeks since OpenAI released [GPT-4](https://openai.com/index/gpt-4/), and I’ve already been putting it to work. As a ChatGPT Plus subscriber, I’ve gained access to this new model, albeit with frustratingly low rate limits that I hope will improve in the coming weeks.
 
 Despite that, the excitement I am feeling is real. GPT-4 feels like a gear shift, a real turning point, not just in AI capability, but in how I personally approach learning. I’ve been experimenting with Large Language Models (LLMs) for some time now, mainly to augment my learning around technical subjects. With GPT-4, that approach feels more powerful than ever.
 

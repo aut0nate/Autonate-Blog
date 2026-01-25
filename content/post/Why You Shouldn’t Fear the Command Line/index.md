@@ -1,6 +1,6 @@
 ---
 title: "Why You Shouldn’t Fear the Command Line"
-date: 2022-09-29
+date: 2022-06-18
 tags: [linux, cli]
 ---
 

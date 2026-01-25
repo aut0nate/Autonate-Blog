@@ -1,7 +1,7 @@
 ---
 title: "Discovering n8n: The Workflow Automation Platform"
 date: 2025-10-03
-tags: [homelab, automation]
+tags: [homelab, automation, n8n]
 ---
 
 Automation has always fascinated me for its ability to simplify complex processes and free up time for creative work. That curiosity naturally led me to explore new tools and that’s how I discovered **n8n**, a workflow automation platform that has quickly become one of my favourite tools.

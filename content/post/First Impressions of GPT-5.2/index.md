@@ -29,7 +29,7 @@ What stands out most is that this breadth now feels intentional rather than inci
 
 I’ve started exploring GPT-5.2 for coding-related tasks, particularly through what’s often described as _vibe-coding_, a term coined by Karpathy:
 
-{{< tweet 1886192184808149383 >}}
+{{< x user="Karpathy" id="1886192184808149383" >}}
 
 As a non-developer, this approach has allowed me to focus less on the code and more on shaping tools that solve very specific problems in my own workflows.
 

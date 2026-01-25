@@ -6,7 +6,7 @@ tags: [ai, llm, chatgpt]
 
 [GPT-5](https://openai.com/gpt-5/) arrived with an enormous amount of expectation attached to it. By the time it launched, OpenAI had already set a precedent with [GPT-4](https://blog.autonate.dev/post/first-impressions-of-gpt-4/), [GPT-4o](https://blog.autonate.dev/post/first-impressions-of-gpt-4o/), and the reasoning models that followed. Each release raised the bar, not just technically, but emotionally. As users, we have come to expect clear leaps forward, and GPT-5 seemed to miss the high benchmark mark for the majority of users.
 
-From a purely technical standpoint, GPT-5 is undeniably powerful. It improves on reasoning, long-context handling, and multimodal capability. Yet the initial reaction across the AI community was mixed, and in some cases [openly critical.]([https://www.tomsguide.com/ai/chatgpt/chatgpt-5-users-are-not-impressed-heres-why-it-feels-like-a-downgrade](https://www.tomsguide.com/ai/chatgpt/chatgpt-5-users-are-not-impressed-heres-why-it-feels-like-a-downgrade) That contrast between capability and perception is what makes GPT-5 such an interesting release to reflect on.
+From a purely technical standpoint, GPT-5 is undeniably powerful. It improves on reasoning, long-context handling, and multimodal capability. Yet the initial reaction across the AI community was mixed, and in some cases [openly critical.](https://www.tomsguide.com/ai/chatgpt/chatgpt-5-users-are-not-impressed-heres-why-it-feels-like-a-downgrade) That contrast between capability and perception is what makes GPT-5 such an interesting release to reflect on.
 
 ## The Weight of Expectation
 

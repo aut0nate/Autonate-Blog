@@ -1,8 +1,8 @@
-—
+---
 title: “Using Raindrop.io to Preserve the Web”
 date: 2025-07-15
 tags: [productivity, raindrop]
-—
+---
 
 Like most people, I spend a lot of time reading, researching, and collecting things from across the web. I am always aware of how easily useful content can disappear or be forgotten over time. Blog posts, documentation, bash scripts, YouTube videos, services I want to explore later, and images which sparked a bout of nostalgia. Over time, I learned that browser bookmarks alone were not enough. I needed a smart, searchable digital scrapbook and that is how I discovered [Raindrop](https://raindrop.io/).
 

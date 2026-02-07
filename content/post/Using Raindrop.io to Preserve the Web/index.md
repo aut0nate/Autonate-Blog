@@ -1,5 +1,5 @@
 ---
-title: “Using Raindrop.io to Preserve the Web”
+title: Using Raindrop.io to Preserve the Web
 date: 2025-07-15
 tags: [productivity, raindrop]
 ---

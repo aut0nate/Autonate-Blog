@@ -1,6 +1,6 @@
 ---
 title: How I Use Projects in ChatGPT
-date: 2025-01-18
+date: 2026-01-18
 tags: [ai, chatgpt]
 ---
 

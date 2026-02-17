@@ -25,7 +25,7 @@ Each project represents a distinct area of focus. For example:
 
 By isolating conversations into a project, I create a contained thinking environment. The chats remain on topic. The context remains relevant. And most importantly, I can find things later without digging through unrelated history.
 
-It feels similar to how I structure documentation in Craft, where everything has a home and nothing is left floating around without context.
+It feels similar to how I structure documentation in [Craft](https://blog.autonate.dev/post/my-approach-to-personal-knowledge-management-with-craft/), where everything has a home and nothing is left floating around without context.
 
 The benefit is not just organisational. It directly improves the quality of output.
 
@@ -40,17 +40,11 @@ An example of my Homelab project which I use to help me configure and maintain m
 
 ## Moving Away from Static Global Instructions
 
-Initially, I relied heavily on global custom instructions in ChatGPT settings. I spent time crafting detailed, carefully structured prompts to guide tone, style, and behaviour.
+Initially, I relied heavily on global custom instructions in ChatGPT settings. I spent time crafting detailed, carefully structured prompts to guide tone, style, and behaviour. The issue I eventually noticed was that they were too static.
 
-The issue I eventually noticed was that they were too static.
+Some chats required structured, analytical responses and others required step-by-step hands-on guidance.
 
-Some chats required structured, analytical responses.
-Others required reflective writing.
-Others required step-by-step hands-on guidance.
-
-A single global instruction block cannot adapt to that nuance. It either becomes too generic or too restrictive.
-
-That realisation changed how I approached configuration.
+A single global instruction block cannot adapt to that nuance. It either becomes too generic or too restrictive. That realisation changed how I approached configuration.
 
 Instead of relying on global instructions, I now define instructions at the project level. This makes each project context-specific rather than universal.
 
@@ -124,7 +118,7 @@ Another behaves like an editor.
 Another behaves like a systems thinker.
 Another behaves like a career advisor.
 
-This mirrors how I described GPT-5.2 feeling more capable within workflows rather than isolated questions.
+This mirrors how I described [GPT-5.2](https://blog.autonate.dev/post/first-impressions-of-gpt-5.2/) feeling more capable within workflows rather than isolated questions.
 
 Projects allow me to shape that workflow intentionally.
 
@@ -139,11 +133,9 @@ You can decide whether a project:
 
 ![Memories](./Memories.png)
 
-In most cases, I select **Project Only**.
+In most cases, I select **Project Only** and I do this deliberately.
 
-I do this deliberately.
-
-If a project is focused on DevOps learning, I don’t want unrelated personal context influencing it. If it’s a blog-writing project, I want tone consistency inside that space, not drift from elsewhere.
+If a project is focused on DevOps learning, I don’t want unrelated personal context influencing its output. If it’s a blog-writing project, I want tone consistency inside that space, not drift from elsewhere.
 
 Keeping memory scoped ensures:
 
@@ -164,11 +156,7 @@ The practical benefits are simple:
 * Experiments remain contained
 * Long-running initiatives stay coherent
 
-More importantly, it reduces cognitive noise.
-
-Instead of remembering where something was discussed, I know the domain it belongs to.
-
-That alone makes the system worthwhile.
+More importantly, it reduces cognitive noise. Instead of remembering where something was discussed, I know the domain it belongs to and that alone makes the system worthwhile.
 
 ## Final Thoughts
 

@@ -1,9 +1,9 @@
-# Autonate Blog
+# My Blog
 
 [![GitHub Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge\&logo=github\&logoColor=white)](https://autonate.dev)
 [![Static Site](https://img.shields.io/badge/static_site-Hugo-ff4088?style=for-the-badge\&logo=hugo\&logoColor=white)](https://gohugo.io/)
 
-Welcome to **blog.autonate.dev** — my personal blog and technical knowledge base, hosted on GitHub Pages.
+Welcome to **blog.nathandarker.it** — my personal blog and technical knowledge base, hosted on GitHub Pages.
 It serves as a living repository of notes, guides, and practical write-ups based on hands-on learning and real-world experience.
 
 ## Purpose

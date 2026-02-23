@@ -1,7 +1,7 @@
 # The base URL for the site.
 baseURL = 'https://blog.nathandarker.it'
 # The title of the site.
-title = 'Nathan Darker
+title = 'Nathan Darker'
 # Enable Git info › https://gohugo.io/methods/page/gitinfo/
 enableGitInfo = false
 # The default content language.

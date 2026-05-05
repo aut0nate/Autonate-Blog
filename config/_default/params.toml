@@ -23,14 +23,14 @@ author = "nathan"
   icon = "fab fa-github"
 
 [[social.links]]
+   type = "twitter"
+   id = "aut0nate"
+   icon = "fa-brands fa-x-twitter"
+
+[[social.links]]
   type = "custom"
   id = "https://www.linkedin.com/in/nathandarker/"
   icon = "fa-brands fa-linkedin"
-
-#[[social.links]]
-#  type = "twitter"
-#  id = "yourhandle"
-#  icon = "fab fa-twitter"
 
 #[[social.links]]
 #  type = "email"

@@ -9,12 +9,14 @@ menu:
     pre: fa-info-circle
 ---
 
-👋🏻 Hi, I’m Nathan, a UK-based technical professional with hands-on experience across Linux, Windows, and macOS environments. I work comfortably across platforms, tools, and workflows, supporting both development and operations teams with a practical, systems-focused approach.
+👋🏻 Hi, I’m Nathan, a UK-based technical professional working in DevOps environments, supporting development and operations teams with a practical, systems-focused approach.
 
-My primary areas of focus include AI, Automation, Cloud Services, and System Administration. I use automation to improve efficiency, increase reliability, and streamline processes. I actively follow developments in generative AI and emerging LLM technologies, both frontier and open source, applying them with a practical mindset to enhance productivity and accelerate learning.
+My work focuses on how systems are built, configured, and run in practice, with an emphasis on reliability, simplicity, and maintainability. I am particularly comfortable working in Linux environments and prefer operating at the command line to configure systems, troubleshoot issues, and build reusable workflows.
 
-I am particularly comfortable working within Linux environments, primarily Fedora and Ubuntu, and enjoy operating at the command line. Exploring new CLI tools, refining workflows, and managing infrastructure through the terminal are areas I genuinely value, especially in the context of system administration and cloud-based services.
+My cloud experience is primarily in Microsoft Azure, where I have managed and supported infrastructure, identity management, and application environments. I have experience using Docker to build and run containerised applications, and I am actively developing hands-on experience with Kubernetes as part of a broader focus on cloud-native systems.
 
-My cloud experience is centred on Microsoft Azure, the primary platform used within the organisations I have worked for. Through Azure, I have supported cloud-hosted infrastructure, identity management, and platform services that underpin modern application environments.
+I have a strong interest in AI, particularly how large language models work and how they can be applied in real-world workflows. I keep up to date with developments in the field and explore tools that help me build practical solutions to improve productivity and learning.
 
-Knowledge management and documentation are central to how I work and learn. I place strong emphasis on clear, structured documentation, treating it as both a learning tool and a long-term reference. Whether documenting systems, processes, or experiments, I aim to produce resources that are practical, reusable, and valuable to others.
+I place strong emphasis on documentation and knowledge management, creating clear, structured resources that are practical, reusable, and useful to others.
+
+Outside of technology, I have a strong interest in football, photography, history, and travel.

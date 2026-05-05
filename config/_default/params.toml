@@ -37,10 +37,10 @@ author = "nathan"
 #  id = "your.email@example.com"
 #  icon = "fas fa-envelope"
 
-[[social.links]]
-  type = "rss"
-  icon = "fas fa-rss"
-  noblank = true  # will not open in new window
+# [[social.links]]
+#   type = "rss"
+#  icon = "fas fa-rss"
+#   noblank = true  # will not open in new window
 
 [comments]
 # Global switch for the post-comment system. [true | false]

@@ -75,6 +75,8 @@ Codex had handled it perfectly.
 
 The images now displayed perfectly centred exactly as I wanted.
 
+![The-Fix](./The-Fix)
+
 ## Why This Felt Different
 
 The really interesting part wasn’t the UI fix itself.

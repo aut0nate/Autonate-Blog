@@ -1,5 +1,5 @@
 ---
-title: “Fixing Bugs from an iPhone with Codex”
+title: Fixing Bugs from an iPhone with Codex
 date: 2026-05-09
 tags: [ai, llm, chatgpt, codex, github, automation, cicd, prompt engineering]
 ---

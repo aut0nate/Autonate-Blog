@@ -4,7 +4,7 @@ date: 2026-05-09
 tags: [ai, llm, chatgpt, codex, github, automation, cicd, prompt engineering]
 ---
 
-I was casually browsing the gallery on my AI Art Hub app, [AI Art Hub](https://images.autonate.dev), on my iPhone when I noticed something slightly off. Whenever I tapped on an image to enlarge it, the image wasn’t properly centred on screen.
+I was casually browsing the gallery on my [AI Art Hub app](https://images.autonate.dev), on my iPhone when I noticed something slightly off. Whenever I tapped on an image to enlarge it, the image wasn’t properly centred on screen.
 
 It wasn’t a critical issue. Just one of those small UI details that immediately stands out once you notice it.
 

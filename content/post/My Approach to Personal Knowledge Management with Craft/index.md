@@ -1,15 +1,15 @@
 ---
 title: "My Approach to Personal Knowledge Management with Craft"
 date: 2025-12-20
-tags: [craft, productivity]
+tags: [craft, productivity, knowledge-management]
 ---
 
 As a technical professional and somebody who is constantly learning new skills, I’ve always taken time to document what I learn. I learned early on that relying on memory simply doesn’t scale, and documentation isn’t an afterthought for me, it’s a deliberate part of my workflow.
 
 There are two main reasons I document things:
 
-1. To help future me remember how I did something  
-2. To share knowledge with others  
+1. To help future me remember how I did something
+2. To share knowledge with others
 
 If you’ve worked in IT for any length of time, you’ll know how fast things move. A tool that feels essential today can be quietly deprecated tomorrow. In the age of AI, that pace has only accelerated. New frameworks, platforms, services, and workflows appear constantly, and the number of rabbit holes you can go down in any given tech stack is endless.
 
@@ -25,9 +25,9 @@ I slowed down and started documenting properly. Over time, that documentation ev
 
 The benefits were immediate and long-lasting:
 
-- Faster recall when configuring or troubleshooting systems  
-- Better retention through the act of writing things down  
-- Lower stress, because I wasn’t relying on memory alone  
+- Faster recall when configuring or troubleshooting systems
+- Better retention through the act of writing things down
+- Lower stress, because I wasn’t relying on memory alone
 
 Documentation became the one habit I’ve been consistent with over the years, and it’s been the bedrock of how I learn and work.
 
@@ -49,9 +49,9 @@ What really sets Craft apart is how it encourages structure without forcing it. 
 
 Craft includes an AI Assistant that’s deeply integrated into the workspace. I use it for:
 
-- Summarising long documents  
-- Refining notes when I want to share them publicly  
-- Finding information across my knowledge base without exact keywords  
+- Summarising long documents
+- Refining notes when I want to share them publicly
+- Finding information across my knowledge base without exact keywords
 
 Because the Assistant understands the context of my documents, tasks, and links, it feels less like a bolt-on feature and more like a natural extension of the system. Knowing that Craft plans to make this assistant more agentic over time is genuinely exciting.
 
@@ -59,9 +59,9 @@ Because the Assistant understands the context of my documents, tasks, and links,
 
 My documentation often includes more than text. Craft makes it easy to embed:
 
-- Images and diagrams  
-- Code snippets and tables  
-- Videos, audio, and files  
+- Images and diagrams
+- Code snippets and tables
+- Videos, audio, and files
 
 That flexibility means my tech wiki can capture real-world context, not just commands or configuration steps. I also like that documents can be styled, themed, and even published as websites when I want to share something publicly. Check out the [Collection](https://docs.autonate.dev/e32Y7buxSHCw4o) for an example of this.
 
@@ -79,9 +79,9 @@ Daily Notes have become part of my routine. I use them to plan my day, track wha
 
 Even though I use Craft for personal knowledge management, the collaboration features are solid:
 
-- Real-time editing  
-- Comments and version history  
-- Granular sharing permissions  
+- Real-time editing
+- Comments and version history
+- Granular sharing permissions
 
 When I do need to collaborate or share knowledge with others, I don’t need to migrate content elsewhere.
 

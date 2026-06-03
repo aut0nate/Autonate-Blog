@@ -162,7 +162,7 @@ Each profile can have its own configuration, memories, working directory, and op
 
 That separation gives me cleaner conversations, better memory hygiene, and more confidence that each agent is operating within the right scope.
 
-You can read more about configuring profiles [here](https://hermes-agent.nousresearch.com/docs/user-guide/profiles/).
+You can read more about [configuring profiles here](https://hermes-agent.nousresearch.com/docs/user-guide/profiles/).
 
 ## SOUL.md, AGENTS.md, and Strict Boundaries
 

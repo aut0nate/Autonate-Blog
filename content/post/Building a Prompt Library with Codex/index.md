@@ -1,7 +1,7 @@
 ---
 title: Building a Prompt Library with Codex
 date: 2026-03-18
-tags: [ai, llm, chatgpt, codex, prompt engineering, docker, github, cicd]
+tags: [ai, llm, chatgpt, codex, prompt engineering, docker, github, cicd, agentic-ai]
 ---
 
 When I first started using Codex, I felt completely out of my depth. I remember thinking, “What am I doing? I’m not a developer.” It felt like I was stepping into a world that was built for developers. Sure, there are developer workflows you need to be aware of, but I wasn’t sure if I belonged there.

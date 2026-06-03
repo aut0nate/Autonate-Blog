@@ -1,7 +1,7 @@
 ---
 title: Why I Switched to Obsidian
 date: 2026-06-01
-tags: [obsidian, productivity, knowledge-management, codex, hermes-agent]
+tags: [obsidian, productivity, knowledge-management, codex, hermes-agent, agentic-ai]
 ---
 
 For the last few years, [Craft](https://www.craft.do/) has been my main place for personal knowledge management. I have rated it highly for a long time, and I still think it is an excellent tool. It helped me build a proper documentation habit, organise my technical notes, and keep a useful personal knowledge base that I could rely on.

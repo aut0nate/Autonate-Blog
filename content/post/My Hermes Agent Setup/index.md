@@ -186,7 +186,7 @@ That separation is the part I like most. It lets each agent work with the right 
 
 ## Syncing My Obsidian Notes
 
-I also wanted Hermes to work with my Obsidian vault.
+I also wanted Hermes to work with my [Obsidian](https://blog.nathandarker.it/post/why-i-switched-to-obsidian/) vault.
 
 Obsidian is where I want durable knowledge to live: notes, runbooks, decisions, research summaries, technical explanations, and anything useful enough to keep beyond the current conversation.
 

@@ -1,7 +1,7 @@
 ---
 title: Fixing Bugs from an iPhone with Codex
 date: 2026-05-09
-tags: [ai, llm, chatgpt, codex, github, automation, cicd, prompt engineering]
+tags: [ai, llm, chatgpt, codex, github, automation, cicd, prompt engineering, agentic-ai]
 ---
 
 I was casually browsing the gallery on my [AI Art Hub app](https://images.autonate.dev), on my iPhone when I noticed something slightly off. Whenever I tapped on an image to enlarge it, the image wasn’t properly centred on screen.
@@ -31,9 +31,9 @@ Codex then:
 
 All from my phone.
 
-No SSH sessions.  
-No VS Code.  
-No terminal.  
+No SSH sessions.
+No VS Code.
+No terminal.
 No laptop.
 
 What made this feel different is that I wasn’t remotely controlling another machine or manually patching things together. The entire development workflow existed around the request itself.

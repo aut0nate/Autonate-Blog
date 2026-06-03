@@ -1,7 +1,7 @@
 ---
 title: "Rebuilding My Website with Codex and Cloudflare Pages"
 date: 2026-04-29
-tags: [ai, llm, chatgpt, codex, github, cloudflare]
+tags: [ai, llm, chatgpt, codex, github, cloudflare, agentic-ai]
 ---
 
 For a long time, my personal website was something I had online, but not something I felt fully in control of.

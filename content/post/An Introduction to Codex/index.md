@@ -1,7 +1,7 @@
 ---
 title: "An Introduction to Codex"
 date: 2026-02-26
-tags: [ai, llm, chatgpt, codex]
+tags: [ai, llm, chatgpt, codex, agentic-ai]
 ---
 
 I’ll be honest, Codex sat on my radar for a while before I actually gave it a proper go.

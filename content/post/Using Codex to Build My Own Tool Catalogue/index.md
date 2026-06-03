@@ -1,7 +1,7 @@
 ---
 title: "Using Codex to Build My Own Tool Catalogue"
 date: 2026-05-15
-tags: [ai, llm, chatgpt, codex, productivity, github, cicd, docker]
+tags: [ai, llm, chatgpt, codex, productivity, github, cicd, docker, agentic-ai]
 ---
 
 I’ve always liked finding useful apps, command line tools, and resources. Some are things I use every day, while others are more situational, but still worth remembering and sharing when the right moment comes up.

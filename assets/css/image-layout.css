@@ -1,5 +1,18 @@
 /* Keep article screenshots readable without letting tall images dominate the page. */
-.content > .img-link.is-portrait {
+/*
+   Chirpy's popup link styles apply a horizontal transform to some images.
+   Reset that positioning first so every article image remains in normal flow.
+*/
+.content a.article-image {
+  position: static !important;
+  inset: auto !important;
+  transform: none !important;
+}
+
+.content > a.article-image,
+.content > p > a.article-image,
+.content li > a.article-image,
+.content li > p > a.article-image {
   display: flex;
   justify-content: center;
   width: fit-content;
@@ -7,8 +20,13 @@
   margin: 1.5rem auto;
 }
 
-.content .img-link.is-portrait img {
+.content a.article-image img {
   width: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.content a.article-image.is-portrait img {
   max-height: min(34rem, 70vh);
   object-fit: contain;
 }
@@ -26,16 +44,17 @@
   display: contents;
 }
 
-.content .image-gallery .img-link {
+.content .image-gallery .article-image {
   display: flex;
   align-items: center;
   justify-content: center;
   width: 100%;
   min-width: 0;
+  margin: 0;
   padding: 0.35rem;
 }
 
-.content .image-gallery .img-link img {
+.content .image-gallery .article-image img {
   width: 100%;
   max-height: min(30rem, 65vh);
   object-fit: contain;
@@ -46,7 +65,7 @@
     grid-template-columns: 1fr;
   }
 
-  .content .img-link.is-portrait img {
+  .content a.article-image.is-portrait img {
     max-height: min(30rem, 68vh);
   }
 }

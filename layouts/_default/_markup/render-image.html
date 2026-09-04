@@ -25,7 +25,7 @@
   {{- $orientation = "is-portrait" -}}
 {{- end -}}
 
-<a href="{{ $src }}" class="popup img-link{{ with $orientation }} {{ . }}{{ end }}{{ with .Attributes.class }} {{ . }}{{ end }}">
+<a href="{{ $src }}" class="popup img-link article-image{{ with $orientation }} {{ . }}{{ end }}{{ with .Attributes.class }} {{ . }}{{ end }}">
   <img src="{{ $src }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"
     {{- with $width }} width="{{ . }}"{{ end -}}
     {{- with $height }} height="{{ . }}"{{ end -}}

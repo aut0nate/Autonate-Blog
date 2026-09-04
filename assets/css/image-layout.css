@@ -31,6 +31,11 @@
   object-fit: contain;
 }
 
+/* Posts with many phone screenshots can opt into a more compact reading flow. */
+.content a.article-image.image-layout-compact.is-portrait img {
+  max-height: min(26rem, 60vh);
+}
+
 /* The image-gallery shortcode keeps related screenshots together responsively. */
 .content .image-gallery {
   display: grid;
@@ -67,5 +72,9 @@
 
   .content a.article-image.is-portrait img {
     max-height: min(30rem, 68vh);
+  }
+
+  .content a.article-image.image-layout-compact.is-portrait img {
+    max-height: min(24rem, 58vh);
   }
 }

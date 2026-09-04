@@ -29,6 +29,16 @@ The gallery adapts to the available space. Images appear side by side on wider s
 
 Use a gallery when the images form a set, comparison, or short sequence. Keep a single image on its own when it needs the full width for legible text.
 
+## Compact Posts With Many Phone Screenshots
+
+If a post contains several portrait screenshots and the normal height still makes the article feel too long, add this optional front-matter value:
+
+```yaml
+imageLayout: compact
+```
+
+This keeps the images centred and clickable while using a shorter display height. The original image is still shown when the reader selects it.
+
 ## Before Publishing
 
 Check the following:

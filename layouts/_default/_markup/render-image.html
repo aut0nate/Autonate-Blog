@@ -4,6 +4,7 @@
 {{- $width := 0 -}}
 {{- $height := 0 -}}
 {{- $manualPortrait := eq $u.Fragment "portrait" -}}
+{{- $compactImages := eq .Page.Params.imageLayout "compact" -}}
 {{- if not $u.IsAbs -}}
   {{- $path := strings.TrimPrefix "./" $u.Path -}}
   {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
@@ -25,7 +26,7 @@
   {{- $orientation = "is-portrait" -}}
 {{- end -}}
 
-<a href="{{ $src }}" class="popup img-link article-image{{ with $orientation }} {{ . }}{{ end }}{{ with .Attributes.class }} {{ . }}{{ end }}">
+<a href="{{ $src }}" class="popup img-link article-image{{ if $compactImages }} image-layout-compact{{ end }}{{ with $orientation }} {{ . }}{{ end }}{{ with .Attributes.class }} {{ . }}{{ end }}">
   <img src="{{ $src }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"
     {{- with $width }} width="{{ . }}"{{ end -}}
     {{- with $height }} height="{{ . }}"{{ end -}}

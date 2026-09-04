@@ -2,6 +2,7 @@
 title: "Building Yestera: My First iOS App with Codex"
 date: 2026-08-19
 tags: [ai, llm, codex, ios, swift, apple, privacy, app]
+imageLayout: compact
 ---
 
 I’ve always taken more photographs and videos than I can realistically revisit. My iCloud Photos library has grown into a huge collection of family moments, holidays, ordinary days, and small things that seemed worth capturing at the time.

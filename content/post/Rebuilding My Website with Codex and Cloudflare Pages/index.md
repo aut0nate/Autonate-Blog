@@ -94,7 +94,7 @@ The deployment model is straightforward:
 
 That removes a lot of manual effort.
 
-![Cloudflare](CloudFlare.png)
+![Cloudflare](Cloudflare.png)
 
 ## The New Editing Workflow
 

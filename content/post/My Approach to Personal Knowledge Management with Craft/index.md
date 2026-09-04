@@ -65,9 +65,10 @@ My documentation often includes more than text. Craft makes it easy to embed:
 
 That flexibility means my tech wiki can capture real-world context, not just commands or configuration steps. I also like that documents can be styled, themed, and even published as websites when I want to share something publicly. Check out the [Collection](https://docs.autonate.dev/e32Y7buxSHCw4o) for an example of this.
 
-![Tech Wiki](./Tech%20Wiki.jpg)
-
-![Example Document](./Example%20Document.jpg)
+{{< image-gallery >}}
+![Craft tech wiki](./Tech%20Wiki.jpg)
+![Example Craft document](./Example%20Document.jpg)
+{{< /image-gallery >}}
 
 ### Tasks and Daily Notes in One Place
 

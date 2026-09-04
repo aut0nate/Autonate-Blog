@@ -254,7 +254,7 @@ At its core, a skill is a folder containing a `SKILL.md` file. This file include
 
 You define a skill and Codex can reuse it across projects and it saves a lot of repetition over time.
 
-![alt text](Codex-Skills.png)
+![Codex skills list](Codex-Skills.png)
 
 ### MCP (Model Context Protocol)
 
@@ -312,7 +312,7 @@ It’s less about perfect prompts and more about good communication.
 
 Here is an example of a project I worked on. I used plan mode to work with Codex on the initial idea before building the app:
 
-![alt text](Codex-Home.png)
+![Codex home screen](Codex-Home.png)
 
 ## Final Thoughts
 

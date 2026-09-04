@@ -29,8 +29,10 @@ My collections are fairly simple, but they cover a wide range of use cases:
 
 Everything ends up searchable, tagged, and organised in a way that suits how I think rather than how a platform wants me to behave.
 
-![Collections](./Collections.png)
-![iOS1](./iOS1.png)
+{{< image-gallery >}}
+![Raindrop collections](./Collections.png)
+![Raindrop collection on iOS](./iOS1.png)
+{{< /image-gallery >}}
 
 
 ## Reducing Friction on iOS

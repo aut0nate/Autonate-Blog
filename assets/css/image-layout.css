@@ -1,0 +1,52 @@
+/* Keep article screenshots readable without letting tall images dominate the page. */
+.content > .img-link.is-portrait {
+  display: flex;
+  justify-content: center;
+  width: fit-content;
+  max-width: 100%;
+  margin: 1.5rem auto;
+}
+
+.content .img-link.is-portrait img {
+  width: auto;
+  max-height: min(34rem, 70vh);
+  object-fit: contain;
+}
+
+/* The image-gallery shortcode keeps related screenshots together responsively. */
+.content .image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 14rem), 1fr));
+  gap: 1rem;
+  align-items: stretch;
+  margin: 1.5rem 0;
+}
+
+.content .image-gallery > p {
+  display: contents;
+}
+
+.content .image-gallery .img-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  min-width: 0;
+  padding: 0.35rem;
+}
+
+.content .image-gallery .img-link img {
+  width: 100%;
+  max-height: min(30rem, 65vh);
+  object-fit: contain;
+}
+
+@media (max-width: 575.98px) {
+  .content .image-gallery {
+    grid-template-columns: 1fr;
+  }
+
+  .content .img-link.is-portrait img {
+    max-height: min(30rem, 68vh);
+  }
+}

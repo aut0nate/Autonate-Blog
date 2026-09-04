@@ -74,9 +74,10 @@ Here are some screenshots which provide an insight into my setup:
 
 **Portainer**:
 
+{{< image-gallery >}}
 ![Portainer Dashboard](./Portainer%20Home.png)
-
 ![Portainer Stacks](./Portainer%20Stacks.png)
+{{< /image-gallery >}}
 
 **Cloudflare Tunnel**:
 

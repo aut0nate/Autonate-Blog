@@ -1,0 +1,4 @@
+{{- with resources.Get "css/image-layout.css" -}}
+  {{- $style := . | minify | fingerprint -}}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+{{- end -}}

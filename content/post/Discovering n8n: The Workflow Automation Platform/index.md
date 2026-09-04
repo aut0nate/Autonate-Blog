@@ -128,11 +128,11 @@ N8N_TRUSTED_PROXIES=127.0.0.1
 
 After confirming the stack was running, I configured my Cloudflare Tunnel and linked my subdomain through Nginx Proxy Manager for external access. Then I created the owner account, registered for the free license key, and activated my instance - simple and seamless.
 
+{{< image-gallery >}}
 ![n8n Owner Account](./n8n-owner-account.png)
-
 ![n8n License Registration](./n8n-license-registration.png)
-
 ![n8n License Activation](./n8n-license-activation.png)
+{{< /image-gallery >}}
 
 **Note:** If you want to self-host n8n, check out the official [installation guide](https://docs.n8n.io/hosting/installation).
 

@@ -35,8 +35,10 @@ Here are my current projects:
 
 An example of my Homelab project which I use to help me configure and maintain my homelab applications:
 
-![Homelab Project Instructions](./Homelab%20Project%20List.png)
+{{< image-gallery >}}
+![Homelab Project Instructions](./Homelab%20Project%20Instructions.png)
 ![Homelab Project List](./Homelab%20Project%20List.png)
+{{< /image-gallery >}}
 
 ## Moving Away from Static Global Instructions
 
@@ -79,8 +81,10 @@ By generating tailored instructions per project, I’m effectively shaping the b
 
 It feels less like “using a chatbot” and more like configuring a specialist tool.
 
-![Prompt Designer 1](./Prompt%20Designer%201.png)
-![Prompt Designer 2](./Prompt%20Designer%202.png)
+{{< image-gallery >}}
+![Prompt Designer instructions](./Prompt%20Designer%201.png)
+![Prompt Designer output](./Prompt%20Designer%202.png)
+{{< /image-gallery >}}
 
 ## Using Project-Specific Documents
 

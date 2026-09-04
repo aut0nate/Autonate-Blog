@@ -42,9 +42,10 @@ While NotebookLM gives you structured explanations, the process of turning those
 
 This multi-faceted approach to learning and consuming content, asking targeted questions, listening to a podcast form discussion, watching a visual video overview, and then testing myself—has been a great tool in terms of knowledge retention and has definitely helped me **learn more efficiently and effectively**.
 
+{{< image-gallery >}}
 ![NotebookLM Infographic](./NotebookLM%20Infographic.png)
-
 ![NotebookLM Slide Deck](./NotebookLM%20Slide%20Deck.png)
+{{< /image-gallery >}}
 
 If you want to see a real example of how I use NotebookLM in practice, click on the following link:
 [Explore my NotebookLM example](https://notebooklm.google.com/notebook/7219522b-d4ee-4c04-b633-11f9d699b589)

@@ -52,7 +52,7 @@ Here’s a quick example of how you might send a file between devices in your ta
 
 3. Just like that, the pdf was available to me on my Windows 11 device:
 
-   ![Taildrop macOS 2](./Taildrop%20Win11.png)
+   ![Taildrop file received on Windows 11](./Taildrop%20Win11.png)
 
 ## Final Thoughts
 

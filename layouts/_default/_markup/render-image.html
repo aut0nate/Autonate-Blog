@@ -1,0 +1,43 @@
+{{- $u := urls.Parse .Destination -}}
+{{- $src := $u.String -}}
+{{- $orientation := "" -}}
+{{- $width := 0 -}}
+{{- $height := 0 -}}
+{{- $manualPortrait := eq $u.Fragment "portrait" -}}
+{{- if not $u.IsAbs -}}
+  {{- $path := strings.TrimPrefix "./" $u.Path -}}
+  {{- with or (.PageInner.Resources.Get $path) (resources.Get $path) -}}
+    {{- $src = .RelPermalink -}}
+    {{- if eq .ResourceType "image" -}}
+      {{- $width = .Width -}}
+      {{- $height = .Height -}}
+      {{- $orientation = cond (gt .Height .Width) "is-portrait" "is-landscape" -}}
+    {{- end -}}
+    {{- with $u.RawQuery -}}
+      {{- $src = printf "%s?%s" $src . -}}
+    {{- end -}}
+    {{- with and (not $manualPortrait) $u.Fragment -}}
+      {{- $src = printf "%s#%s" $src . -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- if $manualPortrait -}}
+  {{- $orientation = "is-portrait" -}}
+{{- end -}}
+
+<a href="{{ $src }}" class="popup img-link{{ with $orientation }} {{ . }}{{ end }}{{ with .Attributes.class }} {{ . }}{{ end }}">
+  <img src="{{ $src }}" alt="{{ .PlainText }}" loading="lazy" decoding="async"
+    {{- with $width }} width="{{ . }}"{{ end -}}
+    {{- with $height }} height="{{ . }}"{{ end -}}
+    {{- with .Title }} title="{{ . }}"{{ end -}}
+    {{- range $k, $v := .Attributes -}}
+      {{- if and $v (ne $k "class") -}}
+        {{- printf " %s=%q" $k ($v | transform.HTMLEscape) | safeHTMLAttr -}}
+      {{- end -}}
+    {{- end -}}
+  >
+</a>
+{{- if .Attributes.caption -}}
+  <em>{{ .Attributes.caption }}</em>
+{{- end -}}
+{{- /**/ -}}

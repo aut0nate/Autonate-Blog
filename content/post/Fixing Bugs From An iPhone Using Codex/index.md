@@ -16,7 +16,7 @@ I opened ChatGPT on my iPhone, launched Codex, and described the issue in plain 
 
 > Upon tapping an image on mobile, centralise the image to make it the focal point in the centre of the viewport. Add a subtle transition as the prompt metadata panel fades out of view and the image is pushed to the centre of the screen. Remove any drop shadow effects behind the image.
 
-![Codex-Prompt](./Codex-Prompt)
+![Codex prompt on iPhone](./Codex-Prompt#portrait)
 
 That was essentially it.
 
@@ -40,7 +40,7 @@ What made this feel different is that I wasn’t remotely controlling another ma
 
 Just natural language instructions from an iPhone.
 
-![Codex-Action](./Codex-Action)
+![Codex task running on iPhone](./Codex-Action#portrait)
 
 ## Reviewing the Changes
 
@@ -53,9 +53,10 @@ Codex didn’t just blindly edit files and stop there. I was able to:
 
 Once I was happy, I merged the PR into my main branch.
 
-![Codex-Complete](./Codex-Complete)
-
-![GitHub](./GitHub)
+{{< image-gallery >}}
+![Codex task completed on iPhone](./Codex-Complete#portrait)
+![GitHub pull request on iPhone](./GitHub#portrait)
+{{< /image-gallery >}}
 
 ## CI/CD Took Care of the Rest
 
@@ -75,7 +76,7 @@ Codex had handled it perfectly.
 
 The images now displayed perfectly centred exactly as I wanted.
 
-![The-Fix](./The-Fix)
+![The corrected image view on iPhone](./The-Fix#portrait)
 
 ## Why This Felt Different
 

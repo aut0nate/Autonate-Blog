@@ -108,7 +108,9 @@ I can choose the time that suits me, rather than having the app interrupt me at 
 
 Yestera stays quiet when there is nothing to show. That matters because the reminder remains useful instead of becoming another notification that I automatically dismiss.
 
-The notifications are local to the device. There is no remote notification service or developer-operated backend behind them. The app prepares the reminder from the Photos library and follows the system's own rules for delivery, Focus, and Scheduled Summary.
+The notifications are local to the device. There is no remote notification service or developer-operated backend behind them. The app prepares the reminder from the Photos library and follows the system's own rules for delivery.
+
+![Yestera Settings showing Surprise Me, daily memories, muted videos, and widgets](./Yestera-Settings-Upper.png)
 
 ## Surprise Me
 
@@ -175,10 +177,7 @@ One thing I learned while building Yestera is that an app can have a simple cent
 
 The app supports Home Screen and Lock Screen widgets, so a memory can appear without opening the main interface. It also includes App Shortcuts for opening today's memories, opening memories for a date, counting today's memories, finding an unshared memory, and choosing original media for a later Shortcut action.
 
-{{< image-gallery >}}
-![Yestera Settings showing Surprise Me, daily memories, muted videos, and widgets](./Yestera-Settings-Upper.png)
 ![Yestera Settings showing widgets, sharing history, and hidden memories](./Yestera-Settings-Lower.png)
-{{< /image-gallery >}}
 
 Those features are not the reason Yestera exists, but they help it fit into the rest of the iPhone. The same is true of accessibility options, automatic playback choices, remembered appearance settings, the ability to hide an individual memory from Yestera, and the option to restore hidden memories later.
 
@@ -205,7 +204,7 @@ I also learned that constraints are useful. Keeping Yestera iPhone-only, using n
 
 ## Why I Put It on the App Store
 
-Yestera began as a personal project to solve a problem in my own photo library. I built it because I wanted to use it, and I still use it every day.
+Yestera began as a personal project to solve a problem in my own photo library. I built it because I wanted to use it, and I do use it every day.
 
 I decided to put it on the App Store for free because I thought other people might have the same experience: a large iCloud Photos library full of memories that are safe, but easy to forget. I’m not trying to replace Apple Photos. I wanted to give people another way to look at the moments they already have.
 

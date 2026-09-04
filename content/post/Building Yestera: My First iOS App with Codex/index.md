@@ -68,11 +68,17 @@ It also made the privacy model easier to reason about. The media stays in Photos
 
 The main Yestera screen opens on today's date. The initial Mosaic view gives me a quick visual overview, while the Timeline view presents the same memories in a more editorial layout.
 
+![Yestera's Mosaic view showing memories grouped by year](./Yestera-Mosaic.png)
+
 Each year is shown as its own group. The year headings and memory counts are kept visible, which makes it easier to understand how many years are represented and how the day has changed over time.
 
 The calendar control beside the date lets me choose a specific month and day. It remains yearless by design, because the purpose is to compare that day across the library. I can keep the results showing all matching years or narrow them to one particular year when I want to look at a single event.
 
+![Yestera's calendar picker for choosing a month, day, and year scope](./Yestera-Date-Picker.png)
+
 I can also swipe horizontally to move to the previous or next date. When I move away from today, a labelled Today button appears below the calendar so I can return to the current date quickly. The app also remembers the layout and ordering preferences I choose, so I can configure it around the way I like to browse.
+
+![Yestera showing the Today button while browsing another date](./Yestera-Today.png)
 
 The date navigation sounds like a small detail, but it changes how I use the app. I’m not just opening a search screen and leaving again. I can move through nearby days, pause on something interesting, and let the timeline become a gentle way of exploring the library.
 
@@ -85,6 +91,11 @@ As I mentioned earlier, I use a Shortcut to send photographs of our son to my pa
 When the system reports that a sharing activity has completed, Yestera stores a small record on the device. It then shows a discreet indicator or message on that specific memory. If I shared it recently, I can see that context while browsing and choose a different photograph instead.
 
 The app does not pretend to know whether somebody received or opened the media. It only records the fact that iOS reported a completed sharing action. It also does not store the recipient, the destination application, or a copy of the photograph in the sharing history.
+
+{{< image-gallery >}}
+![Yestera showing a completed sharing activity on a memory](./Yestera-Shared-Memory.jpg)
+![Yestera showing that no sharing activity has been recorded](./Yestera-Sharing-Not-Recorded.jpg)
+{{< /image-gallery >}}
 
 I can share a memory again, remove an individual history record, or clear the local history from Settings. This has become one of my favourite parts of Yestera because it turns sharing into something I can do with a little more intention.
 
@@ -120,6 +131,8 @@ The main filter lets me narrow the current date to:
 - Videos
 - Screenshots
 
+![Yestera's memory filter showing All Memories, Favourites, Photos, Videos, and Screenshots](./Yestera-Filters.png)
+
 Screenshots are treated separately from photographs. I can also enable a setting to exclude screenshots throughout Yestera, including the main results, year counts, notifications, widgets, and Shortcuts. That is useful for me because screenshots are part of my Photos library, but they are not usually the kind of memory I want resurfaced.
 
 The filter stays with me while I move between dates and year scopes during the current session. That means I can browse only videos across several days, or look through favourites without repeatedly rebuilding the same filter.
@@ -129,6 +142,8 @@ The filter stays with me while I move between dates and year scopes during the c
 Opening a memory provides more than a larger version of the image. Yestera shows capture information such as the date, time, resolution, camera model, media type, and video duration where those details are available.
 
 If the photograph contains recorded location information, Yestera displays it on a map and can open that place directly in Apple Maps. This gives me a way to remember not only what happened, but where it happened, and makes it possible to revisit a location if I want to.
+
+![Yestera showing captured metadata, a recorded location, and the Open in Maps action](./Yestera-Metadata-and-Location.png)
 
 The location comes from the photograph's existing metadata. Yestera does not request my current location just to display an old memory, and it shows a neutral state when the asset has no recorded coordinates.
 
@@ -158,6 +173,11 @@ This local approach also keeps the product focused. I did not need to build user
 One thing I learned while building Yestera is that an app can have a simple central idea and still contain a lot of small decisions.
 
 The app supports Home Screen and Lock Screen widgets, so a memory can appear without opening the main interface. It also includes App Shortcuts for opening today's memories, opening memories for a date, counting today's memories, finding an unshared memory, and choosing original media for a later Shortcut action.
+
+{{< image-gallery >}}
+![Yestera Settings showing Surprise Me, daily memories, muted videos, and widgets](./Yestera-Settings-Upper.png)
+![Yestera Settings showing widgets, sharing history, and hidden memories](./Yestera-Settings-Lower.png)
+{{< /image-gallery >}}
 
 Those features are not the reason Yestera exists, but they help it fit into the rest of the iPhone. The same is true of accessibility options, automatic playback choices, remembered appearance settings, the ability to hide an individual memory from Yestera, and the option to restore hidden memories later.
 
